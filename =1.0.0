@@ -1,0 +1,4 @@
++ css-loader@0.28.11
+updated 1 package and audited 19476 packages in 8.342s
+found 20 vulnerabilities (2 low, 14 moderate, 2 high, 2 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
